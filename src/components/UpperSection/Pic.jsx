@@ -12,7 +12,7 @@ const Pic = () => {
       <div className="absolute w-[370px] h-[370px] rounded-xl border-4 border-cyan-500 animate-[spin_10s_linear_infinite] -z-10"></div>
 
       <img
-        src="/public/images/1.jpg"
+        src="/images/1.jpg"
         alt="Hitesh Kumar"
         className="w-[350px] h-[350px] object-cover rounded-xl"
       />
